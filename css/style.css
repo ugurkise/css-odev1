@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+h3 {
+    color: rgb(159, 161, 9);
+}
+nav {
+    text-align: center;
+}
+.img-class {
+    width: 300px;
+}
+.liste-ortalama {
+    text-align: center;
+}
+ul, ol {
+    display: inline-block;
+}
+p {
+    font-family: 'Lato', sans-serif;
+}
